@@ -1,2 +1,2 @@
-Old repository. Old repository. Check for newer paper version.
+Old repository. Check for newer paper version.
 License CC BY 4.0
